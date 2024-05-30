@@ -1,0 +1,72 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color:#3949ab ;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+
+h1, p{
+    display: inline-block;
+    width: 400px;
+    font-weight: 700;
+    
+}
+.ue{
+    background-color: #818181;
+    color:black;
+    text-align: center;
+    padding: 10px;
+}
+
+.hola{
+    margin-right: auto;
+    margin-left: auto;
+    width:960px;
+    height: 200px;
+    
+ 
+} 
+
+h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.definicion{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 36px;
+    margin-bottom: 12px;
+}
+
+.adios{
+    margin-top: 50px;
+    display: inline-block;
+    width: 60%;
+    
+}
+
+ul{
+    margin-top: 12px;
+    padding: 0;
+}
+
+li{
+    margin-top: 16px;
+}
+
+.lado1{
+    display: inline-block;
+    width: 30%;
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+ 
+}
